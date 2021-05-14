@@ -53,24 +53,24 @@
 
 ### Оськин Андрей: "GeoIP.jl: быстрое получение ip данных"
 
-* YouTube: TBD
+* YouTube: https://www.youtube.com/watch?v=jzTUPXbwgYA
 
-* Материалы к выступлению: https://docs.google.com/presentation/d/1ap7vX9iCuiI7y3MK4P5mAy7xMMSq7kl3dK3erU1EIxQ/edit?usp=sharing
+* Материалы к выступлению: https://docs.google.com/presentation/d/1ap7vX9iCuiI7y3MK4P5mAy7xMMSq7kl3dK3erU1EIxQ/edit?usp=sharing или [pdf версия](data/meetup_1/geoip/GeoIP_jl.pdf)
 
 ### Александр Романенко: "Исследуем возможности Julia. Прототип колоночной БД https://github.com/waralex/DataFrameDBs.jl"
 
-* YouTube: TBD
+* YouTube: https://www.youtube.com/watch?v=9IFlaY8e15Q
 
-* Материалы к выступлению: TBD
+* Материалы к выступлению: [README.md](data/meetup_1/dataframedbs/README.md)
 
 ### Михаил Хохлов: "Запускаем Julia в Google Colab (работа в Colab Notebook и в терминале командной строке)"
 
-* YouTube: TBD
+* YouTube: https://www.youtube.com/watch?v=fGTDGbgsyPc
 
 * Материалы к выступлению: TBD
 
 ### Виктор Гуменный: "GUI-прототипы с графиками: использование CImGUI.jl + ImPlot.jl"
 
-* YouTube: TBD
+* YouTube: https://www.youtube.com/watch?v=7YOWOGelCGc
 
 * Материалы к выступлению: TBD
