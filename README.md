@@ -49,6 +49,10 @@
 
 # Митап #1
 
+Запись текстового чата: [chat.txt](data/meetup_1/chat.txt)
+
+Там где это возможно, даются ссылки на онлайн ресурсы и локальную (сохранённую в данном репозитории) копию соответствующих материалов.
+
 ## Выступления
 
 ### Оськин Андрей: "GeoIP.jl: быстрое получение ip данных"
@@ -67,10 +71,16 @@
 
 * YouTube: https://www.youtube.com/watch?v=fGTDGbgsyPc
 
-* Материалы к выступлению: TBD
+* Материалы к выступлению: 
+  * [Colab версия шаблона notebook](https://colab.research.google.com/drive/1Rh42i_WgFaN7TbUSCHUZf2BlD3qZRguj)
+  * [Локальная копия шаблона](data/meetup_1/colab/TEMPLATE_JULIA.ipynb)
+  * [Colab версия ssh инструкций](https://colab.research.google.com/drive/1O6LmKzpXCqYE49iPN1bRCb6Vy8FEY-j6)
+  * [Локальная копия ssh инструкций](data/meetup_1/colab/SSH_JULIA.ipynb)
 
 ### Виктор Гуменный: "GUI-прототипы с графиками: использование CImGUI.jl + ImPlot.jl"
 
 * YouTube: https://www.youtube.com/watch?v=7YOWOGelCGc
 
-* Материалы к выступлению: TBD
+* Материалы к выступлению: 
+  * Исходный код для примеров на момент выступления находился в репозитории [sairus7/ImPlot.jl](https://github.com/sairus7/ImPlot.jl) с последним коммитом [8143e4a](https://github.com/sairus7/ImPlot.jl/commit/8143e4abadbfbda2cfb38739d16cf40d7efc2cbf)
+  * Соответствующий PR [#14](https://github.com/wsphillips/ImPlot.jl/pull/14)
