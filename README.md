@@ -104,7 +104,7 @@
 
 ## Выступления
 
-### Дмитрий Багаев
+### Дмитрий Багаев: "Rocket.jl: Функциональное реактивное программирование в Julia"
 
 * YouTube: https://www.youtube.com/watch?v=U9-BCA1vghA&list=PLMYcfWwtW9SqBSkwU1dFSFwoGqRPFIdJe
 
