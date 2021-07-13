@@ -84,3 +84,29 @@
 * Материалы к выступлению: 
   * Исходный код для примеров на момент выступления находился в репозитории [sairus7/ImPlot.jl](https://github.com/sairus7/ImPlot.jl) с последним коммитом [8143e4a](https://github.com/sairus7/ImPlot.jl/commit/8143e4abadbfbda2cfb38739d16cf40d7efc2cbf)
   * Соответствующий PR [#14](https://github.com/wsphillips/ImPlot.jl/pull/14)
+
+# Митап #2
+
+На данном митапе обсуждались только организационные вопросы, поэтому записи нет.
+
+# Митап #3
+
+## Выступления
+
+### Александр Плавин: "DataPipes.jl: Когда DataFrames недостаточно"
+
+* YouTube: https://www.youtube.com/watch?v=xH943tj5LuM&list=PLMYcfWwtW9Sqw7QnmwRbaoARXEXQ7FnYn
+
+* Материалы к выступлению:
+    * TBD
+
+# Митап #4
+
+## Выступления
+
+### Дмитрий Багаев
+
+* YouTube: https://www.youtube.com/watch?v=U9-BCA1vghA&list=PLMYcfWwtW9SqBSkwU1dFSFwoGqRPFIdJe
+
+* Материалы к выступлению:
+    * TBD
