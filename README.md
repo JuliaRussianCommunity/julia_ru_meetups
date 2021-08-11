@@ -104,9 +104,27 @@
 
 ## Выступления
 
-### Дмитрий Багаев
+### Дмитрий Багаев: "Rocket.jl: Функциональное реактивное программирование в Julia"
 
 * YouTube: https://www.youtube.com/watch?v=U9-BCA1vghA&list=PLMYcfWwtW9SqBSkwU1dFSFwoGqRPFIdJe
+
+* Материалы к выступлению:
+    * TBD
+
+# Митап №5
+
+## Выступления
+
+### Роман Самарев: "Использование PackageCompiler.jl"
+
+* YouTube: TBD
+
+* Материалы к выступлению:
+    * TBD
+
+### Андрей Оськин: "Test, Test... ReTest!"
+
+* YouTube: TBD
 
 * Материалы к выступлению:
     * TBD
